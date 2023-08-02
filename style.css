@@ -1,0 +1,46 @@
+
+img {
+     /* width: 400px;
+    height: 250px;
+    border-radius: 75px;
+    text-align: center; */
+}
+
+body{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Main {
+    /* width: 400px;
+    height: 250px;
+    padding: 15px;
+    border-radius: 75px; */
+
+     display: inline-block;
+    margin: 20px;
+    width: 400px;
+    height: 250px;
+    border-radius: 75px;
+    
+}
+
+
+.Odin {
+    text-align: center;
+}
+
+html{
+    background-image: url(https://img.freepik.com/premium-photo/herb-spices-cooking-background_136595-562.jpg?w=2000);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+
+ 
